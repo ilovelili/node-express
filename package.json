@@ -1,0 +1,13 @@
+{
+  "main": "app.js",
+  "repository": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "latest",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
